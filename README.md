@@ -5,15 +5,15 @@ I am a **Java Full Stack Developer** with a strong passion for building scalable
 
 ## 💻 Technical Skills
 - **Backend:** Java, Spring Framework, Spring Boot
-- **Frontend:** Angular Framework, JavaScript, TypeScript
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Frontend:** Angular Framework, JavaScript, TypeScript, HTML, CSS
+- **Databases:** MySQL, 
 - **Version Control:** Git, GitHub
-- **Other:** REST APIs, Microservices, Cloud Services
+- **Other:** REST APIs, 
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/connect2sandy/)
 - **GitHub:** [github.com/sandeepanbanerjee](https://github.com/sandeepanbanerjee)
-- **Email:** [Your Email](#)
+- **Email:** [Your Email](contactsandeepan@gmail.com)
 
 ## 📊 GitHub Stats
 ![Sandeepan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepanbanerjee&show_icons=true&theme=radical)
