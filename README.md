@@ -11,7 +11,7 @@ I am a **Java Full Stack Developer** with a strong passion for building scalable
 - **Other:** REST APIs, 
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/connect2sandy/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/connect2sandy/)
 - **GitHub:** [github.com/sandeepanbanerjee](https://github.com/sandeepanbanerjee)
 - **Email:** [Your Email](contactsandeepan@gmail.com)
 
