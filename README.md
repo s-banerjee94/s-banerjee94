@@ -15,7 +15,7 @@ I am a **Java Full Stack Developer** with a strong passion for building scalable
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect2sandy)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/s-banerjee94)
- [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:contactsandeepan.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=web&logoColor=white)](https:/connectwithsandeepan.in)
+ [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:contactsandeepan.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=web&logoColor=white)](https://connectwithsandeepan.in)
 
 
 ## 📊 GitHub Stats
