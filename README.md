@@ -32,9 +32,13 @@ I have hands-on experience in modern web technologies and love solving complex p
 ## 🗂️ Projects
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=s-banerjee94&repo=marathon-bib-expo-service&theme=radical" />
+  <a href="https://github.com/s-banerjee94/marathon-bib-expo-service" style="text-decoration:none">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=s-banerjee94&repo=marathon-bib-expo-service&theme=radical" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=s-banerjee94&repo=leetcodesolutions&theme=radical" />
+  <a href="https://github.com/s-banerjee94/leetcodesolutions" style="text-decoration:none">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=s-banerjee94&repo=leetcodesolutions&theme=radical" />
+  </a>
 </p>
 
 ---
