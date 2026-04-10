@@ -6,12 +6,15 @@
   <a href="mailto:contactsandeepan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-contactsandeepan%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/connect2sandy">
     <img src="https://img.shields.io/badge/LinkedIn-connect2sandy-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://connectwithsandeepan.in">
     <img src="https://img.shields.io/badge/Portfolio-connectwithsandeepan.in-ff69b4?style=flat-square&logo=internetexplorer&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/s-banerjee94">
     <img src="https://img.shields.io/badge/GitHub-s--banerjee94-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -23,6 +26,16 @@
 
 I am a **Java Full Stack Developer** with a strong passion for building scalable and efficient applications.
 I have hands-on experience in modern web technologies and love solving complex problems with clean, maintainable code.
+
+---
+
+## 🗂️ Projects
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=s-banerjee94&repo=marathon-bib-expo-service&theme=radical" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=s-banerjee94&repo=leetcodesolutions&theme=radical" />
+</p>
 
 ---
 
