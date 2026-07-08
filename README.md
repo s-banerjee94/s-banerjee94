@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-connect2sandy-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href=" https://connectwithsandeepan.in/?ref=github">
+  <a href="https://connectwithsandeepan.in/?ref=github">
     <img src="https://img.shields.io/badge/Portfolio-connectwithsandeepan.in-ff69b4?style=flat-square&logo=internetexplorer&logoColor=white" />
   </a>
   &nbsp;
